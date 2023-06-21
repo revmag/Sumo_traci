@@ -1,0 +1,17 @@
+<configuration>
+
+    <input>
+        <net-file value="trac.net.xml"/>
+        <route-files value="trac.rou.xml"/>
+        <additional-files value="trac.add.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="500"/>
+        <step-length value="0.05"/>
+        <lateral-resolution value="0.3"/>
+    </time>
+</configuration>    
+
+
